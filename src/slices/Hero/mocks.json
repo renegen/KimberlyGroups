@@ -1,0 +1,97 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Exchange"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Quis est duis nulla magna voluptate dolor elit irure ullamco culpa ut Lorem. Esse incididunt eu id aliqua tempor anim culpa velit labore dolor ex deserunt duis amet deserunt. Irure reprehenderit pariatur reprehenderit nulla excepteur mollit aliqua."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Nulla incididunt ipsum minim nisi tempor ipsum est nulla dolor nostrud est eu cupidatat cillum. Nulla ullamco ipsum nulla labore est excepteur voluptate. Anim veniam sunt ex ea amet est dolore dolor excepteur enim anim."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "better",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "FieldContent",
+				"value": "baby",
+				"type": "Text"
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+					"width": 4000,
+					"height": 4000
+				},
+				"url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+				"width": 4000,
+				"height": 4000,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"alt": "through",
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Control"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Reprehenderit cillum adipisicing amet deserunt minim commodo Lorem magna enim occaecat deserunt. Quis nisi ipsum do excepteur id. Fugiat deserunt id dolor in duis sint."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
